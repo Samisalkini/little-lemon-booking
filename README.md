@@ -10,6 +10,6 @@ It's important to note that, as of now, the only functional aspect of the websit
 
 ## Screenshots
 
-Here is some screeenshot of the application showcasing the Booking functionality.
+Here is a screeenshot of the application showcasing the Booking functionality.
 
 ![little lemon website table booking](/src/images/github-cover.png)
